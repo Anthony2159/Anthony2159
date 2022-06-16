@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I’m currently Student Applied Informatics at Odisee Brussels
+### I’m currently still a Student Applied Informatics at Odisee Brussels
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anthony2159&show_icons=true&locale=en&layout=compact&theme=radical" alt="Anthony2159" /></p>
