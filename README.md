@@ -2,10 +2,10 @@
 ### I’m currently Student Applied Informatics at Odisee Brussels
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anthony2159&show_icons=true&locale=en&layout=compact" alt="Anthony2159" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anthony2159&show_icons=true&locale=en&layout=compact&theme=radical" alt="Anthony2159" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anthony2159&show_icons=true&locale=en" alt="Anthony2159" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anthony2159&show_icons=true&locale=en&theme=radical" alt="Anthony2159" /></p>
 
 <!--
 **Anthony2159/Anthony2159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
